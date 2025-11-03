@@ -139,6 +139,10 @@ cd stock-dashboard
 
 video demo 
 
+https://github.com/user-attachments/assets/65404060-5a68-4915-a672-aaaf188a919e
+
+
+
 
 
 
