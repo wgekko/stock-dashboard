@@ -134,7 +134,7 @@ TA-Lib / ta
 Datetime
  – Manejo de fechas y períodos.
 
-git clone https://github.com/tu-usuario/stock-dashboard.git
+git clone [https://github.com/wgekko/stock-dashboard.git]
 cd stock-dashboard
 
 video demo 
